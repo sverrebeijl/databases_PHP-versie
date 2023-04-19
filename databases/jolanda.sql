@@ -1,4 +1,4 @@
-DROP DATABASE IF EXIST `jolanda`;
+DROP DATABASE IF EXISTS `jolanda`;
 
 CREATE DATABASE `jolanda`;
 
