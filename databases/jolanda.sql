@@ -13,5 +13,5 @@ CREATE TABLE `haarproducten` (
 INSERT INTO `haarproducten` (`id`,`product`, `prijs`) VALUES
 (1,'Shampoo', '15'),
 (2,'Conditioner', '20');
-(3,`Zilvershampoo`,`12`);
+(3,'Zilvershampoo','12');
 
